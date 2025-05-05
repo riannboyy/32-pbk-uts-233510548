@@ -54,7 +54,7 @@ function tambahSenjata() {
     senjataBaru.value = ''
   }
 }
-
+//menambahkan fitur update delate
 function hapus(index) {
   daftarSenjata.value.splice(index, 1)
 }
@@ -71,6 +71,7 @@ const daftarTersaring = computed(() => {
 </script>
 
 <style>
+
 .fade-enter-active, .fade-leave-active {
   transition: all 0.3s ease;
 }
