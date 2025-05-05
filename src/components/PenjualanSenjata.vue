@@ -14,7 +14,7 @@
           Tambah
         </button>
       </form>
-
+<!-- membuat form html -->
       <div class="flex items-center mb-5">
         <input type="checkbox" v-model="tampilkanBelumTerjual" id="filter"
                class="mr-3 scale-125 accent-cyan-300" />
