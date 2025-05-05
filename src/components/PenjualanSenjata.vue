@@ -1,5 +1,5 @@
 <template>
-  <!-- menambahkan style pada css -->
+  <!-- memperbaiki style -->
   <div class="min-h-screen bg-gradient-to-br from-[#0f2027] via-[#203a43] to-[#2c5364] flex items-center justify-center p-4 font-poppins">
     <div class="bg-gradient-to-br from-[#1f2937] via-[#374151] to-[#111827] bg-opacity-80 backdrop-blur-xl rounded-3xl shadow-2xl p-8 w-full max-w-lg border border-white/20 text-white">
       <h1 class="text-4xl font-extrabold text-center mb-8 text-cyan-300 drop-shadow-md">
