@@ -63,6 +63,7 @@ function toggleTerjual(index) {
   daftarSenjata.value[index].terjual = !daftarSenjata.value[index].terjual
 }
 
+//fix fitur 
 const daftarTersaring = computed(() => {
   return tampilkanBelumTerjual.value
     ? daftarSenjata.value.filter(item => !item.terjual)
